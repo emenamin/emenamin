@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 -->
+
+My name is Moch. Nasikhun Amin. I usually go by Amin. 
