@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-My name is Moch. Nasikhun Amin. I usually go by Amin. 
-I'm currently working as an **SEO Technical Writer** at Tonjoo, a Software Company based in Indonesia.
-I use this platform as a mean to **document materials** to support my work, such as **dummy text** as well as **snippet code** (https://github.com/emenamin/dokumentasi-code-library) for my tutorial contents.
+<br>My name is Moch. Nasikhun Amin. I usually go by Amin. 
+<br>I'm currently working as an **SEO & Technical Writer** at Tonjoo, a Software Company based in Yogyakarta, also as **SEO & Copywriter** at JAIM, Digital Marketing Agency in Bali, both are in Indonesia. I use this platform as a mean to:
+- Document my **snippet code** to support my content writing activities.
+  - https://github.com/emenamin/dokumentasi-code-library
+- Document my **coding project**
+  - https://github.com/emenamin/data-scraping-cekresi.com
