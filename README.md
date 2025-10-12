@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-<br>My name is Moch. Nasikhun Amin. I usually go by Amin. I'm currently working as an **SEO & Technical Writer** at Tonjoo, a Software Company based in Yogyakarta, also as **SEO & Copywriter** at JAIM, Digital Marketing Agency in Bali, both are in Indonesia. I use this platform as a mean to:
-- Document my **snippet code** to support my content writing activities.
-  - https://github.com/emenamin/dokumentasi-code-library
-- Document my **coding project**
-  - https://github.com/emenamin/data-scraping-cekresi.com
+<br>My name is Moch. Nasikhun Amin, but I usually go by Amin.
+
+<br>I'm currently working as an SEO & Technical Writer at Tonjoo (Software Company, Yogyakarta) and as an SEO & Copywriter at JAIM (Digital Marketing Agency, Bali).
+
+<br>I use this platform primarily to support my content work and document personal projects:
+
+- **Code Library:** Documentation of code snippets to support my technical writing.
+  - Repository Link: https://github.com/emenamin/dokumentasi-code-library
+
+- **Coding Projects:** Personal development and data-scraping projects. 
+  - Repository Link: https://github.com/emenamin/data-scraping-cekresi.com
