@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 - **Code Library:** Documentation of code snippets to support my technical writing.
   - Repository Link: https://github.com/emenamin/dokumentasi-code-library
+  - Contact form snippet: https://gist.github.com/emenamin/1f194da1df67b3b6e9c048f0f4d18745
  
 - **Coding Projects:** Personal and data-scraping projects. 
   - Repository Link: https://github.com/emenamin/data-scraping-cekresi.com
