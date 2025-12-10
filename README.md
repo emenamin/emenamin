@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br>My name is Moch. Nasikhun Amin, but I usually go by Amin.
 
-<br>I'm currently working as an SEO & Technical Writer at Tonjoo (Software Company, Yogyakarta) and as an SEO & Copywriter at JAIM (Digital Marketing Agency, Bali).
+<br>I'm currently working as an SEO Specialist & Technical Writer.
 
 <br>I use this platform primarily to support my content work and document personal projects:
 
