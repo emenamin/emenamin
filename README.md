@@ -30,6 +30,7 @@ Here are some ideas to get you started:
  
 Tech Stacks:
 - SEO: Ahrefs, Semrush, Wappalizer, Detailed SEO, GSC, Google Analytics, GTM, Copyscape
-- Management & Communication: Slack, Asana, HubSpot, 1Pass, Google Task and Calendar
+- Management & Communication: Slack, Asana, HubSpot, 1Pass, Google Task and Calendar, Wekan
+- CMS: WordPress, Squarespace, Notion, Obsidian, Keep Note
 - Design: Figma, Corel Draw, Photopea
 - Others: Mailerlite
