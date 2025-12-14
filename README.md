@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - **Coding Projects:** Personal and data-scraping projects. 
   - Repository Link: https://github.com/emenamin/data-scraping-cekresi.com
  
-Tech Stack:
+Tech Stacks:
 - SEO: Ahrefs, Semrush, Wappalizer, Detailed SEO, GSC, Google Analytics, GTM, Copyscape
-- Management & Communication: Slack, Asana, HubSpot, 1Pass
+- Management & Communication: Slack, Asana, HubSpot, 1Pass, Google Task and Calendar
 - Design: Figma, Corel Draw, Photopea
 - Others: Mailerlite
