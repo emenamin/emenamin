@@ -33,4 +33,5 @@ Tech Stacks:
 - Management & Communication: Slack, Fonika, Asana, HubSpot, 1Pass, Google Task and Calendar, Wekan
 - CMS & Notes: WordPress, Squarespace, Webflow, Notion, Obsidian, Keep Note
 - Design: Figma, Corel Draw, Photopea
+- Web: HTML, CSS, PHP
 - Others: Mailerlite
