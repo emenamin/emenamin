@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   - Repository Link: https://github.com/emenamin/data-scraping-cekresi.com
  
 Tech Stacks:
-- **SEO**: Ahrefs, Semrush, Wappalizer, Detailed SEO, GSC, Google Analytics, GTM, Copyscape
+- **SEO & Data**: Ahrefs, Semrush, Wappalizer, Detailed SEO, GSC, Google Analytics, GTM, Agency Analytics, Copyscape
 - **Management & Communication**: Slack, Fonika, Asana, HubSpot, 1Pass, Google Task and Calendar, Wekan
 - **CMS & Notes**: WordPress, Squarespace, Webflow, Notion, Obsidian, Keep Note
 - **Design**: Figma, Corel Draw, Photopea
